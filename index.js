@@ -38,10 +38,7 @@ function distanceTravelledInFeet(par1, par2){
     }
     }
 
-    // function  calculatesFarePrice(start, destination){
-    //     let distance3 = distanceTravelledInFeet(start,destination);
-
-    // }
+   
 
 
 
